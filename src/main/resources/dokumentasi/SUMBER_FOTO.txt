@@ -1,0 +1,8 @@
+Foto bawaan untuk dokumentasi SIMULASI aplikasi RELAY.
+Sumber: Pexels, https://www.pexels.com/license/
+Foto tidak mewakili bukti penerimaan asli suatu resi.
+
+foto-1.jpg: https://www.pexels.com/photo/5025635/
+foto-2.jpg: https://www.pexels.com/photo/5025639/
+foto-3.jpg: https://www.pexels.com/photo/5025664/
+foto-4.jpg: https://www.pexels.com/photo/4391470/
